@@ -1,0 +1,66 @@
+body {
+  background-color: #1d2126;
+  font-family: arial;
+  color: white; }
+
+.container {
+  margin-top: 60px; }
+
+header {
+  background-color: black;
+  position: relative;
+  height: 70px;
+  text-align: center;
+  padding-top: 10px;
+  font-size: 28pt; }
+
+nav {
+  background-color: #606060;
+  height: 35px;
+  font-size: 16pt;
+  display: in; }
+
+nav ul li {
+  display: inline;
+  text-decoration-color: white;
+  font-weight: bold;
+  color: #FFFFFF;
+  font-size: 16pt; }
+
+footer {
+  background-color: black;
+  height: 60px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-flow: row;
+  text-align: center;
+  font-size: 28pt;
+  justify-content: center; }
+
+.movieCard {
+  display: flex;
+  flex-wrap: wrap;
+  flex-flow: row;
+  margin: 20px;
+  background-color: black;
+  padding: 10px; }
+
+img {
+  border: solid lightgray 1px;
+  margin-right: 10px; }
+
+.divRight {
+  margin-left: 10px; }
+
+.movieName {
+  font-size: 22px;
+  font-weight: bold; }
+
+.likeButton {
+  text-align: right;
+  margin-top: 0px; }
+
+button {
+  background-color: black;
+  border: none;
+  color: white; }

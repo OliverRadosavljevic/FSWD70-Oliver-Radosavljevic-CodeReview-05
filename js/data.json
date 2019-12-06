@@ -1,0 +1,38 @@
+var movies = [
+{
+"name":"Batman",
+"description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, placeat repudiandae. Nisi delectus, hic ex numquam cupiditate error nemo dolorum!",
+"image":"img/aaou.png",
+"likes": 0
+},
+{
+"name":"Batman",
+"description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum aliquam, natus quisquam doloremque repellat, harum explicabo nulla quod, nihil hic laudantium. Doloribus, dolor.",
+"image":"img/aiv.png",
+"likes": 0
+},
+{
+"name":"Batman",
+"description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum cum ratione error necessitatibus ullam, ex laboriosam quasi illum minus alias voluptates rem a inventore obcaecati.",
+"image":"img/thr.png",
+"likes": 0
+},
+{
+"name":"Batman",
+"description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius quod quo ducimus deserunt, dicta modi aliquid autem hic!",
+"image":"img/bp.png",
+"likes": 0
+},
+{
+"name":"Batman",
+"description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta nam harum, ratione officia eveniet natus minima, tempora corrupti ex consequatur delectus placeat asperiores, voluptatibus enim ducimus magni hic!",
+"image":"img/shaz.png",
+"likes": 0
+},
+{
+"name":"Batman",
+"description":"Scary Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe esse, itaque neque tempora non.",
+"image":"img/it.png",
+"likes": 0
+},
+];
